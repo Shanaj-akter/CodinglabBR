@@ -1,0 +1,140 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+a{
+	text-decoration: none;
+}
+ul , ol{
+	list-style-type: none;
+}
+h1 h2 h3 h4 h5 h6 p{
+	margin: 0;
+	padding: 0;
+	line-height: 0.8;
+}
+/* common css end */
+/* header part start */
+.navbar{
+	background: #4170F4;
+}
+.logo{
+	font-size: 40px;
+	color: white;
+}
+.nav-link{
+		
+		color: white;
+		text-transform: capitalize;
+		font-size: 20px;
+		transition: all linear .4s;
+		font-family: "Montserrat", sans-serif;
+		font-weight: 400;
+}
+.nav-link:hover{
+	color: red;
+}
+.icons {
+	padding: 10px 0px;
+	color: white;
+	font-size: 20px;
+	width: 20%;
+	text-align: end;
+}
+.icons i {
+	padding: 0 15px;
+}
+/* header part end */
+/* banner part start */
+#banner{
+	padding: 40px 0;
+	background: #E2EAF7;
+}
+.bannertext h3{
+		color: #4170F4;
+		font-size: 40px;
+		text-transform: uppercase;
+		font-family: "Montserrat", sans-serif;
+		font-weight: 700;
+		transition: all linear .4s;
+}
+.bannertext h3:hover{
+	background-color: #4170F4;
+	border-radius: 10px;
+    color: white;
+	display: inline-block;
+	padding: 10px;
+}
+.bannertext h1 {
+	color: #4170F4;
+	font-size: 45px;
+	text-transform: uppercase;
+	font-family: "Montserrat", sans-serif;
+	font-weight: 700;
+	transition: all linear .4s;
+}
+.bannertext h1:hover{
+	background-color: #4170F4;
+	border-radius: 10px;
+    color: white;
+	display: inline-block;
+	padding: 10px;
+}
+.bannertext h4 {
+	color: #4170F4;
+	font-size: 40px;
+	text-transform: uppercase;
+	font-family: "Montserrat", sans-serif;
+	font-weight: 700;
+	transition: all linear .4s;
+}
+.bannertext h4:hover{
+	background-color: #4170F4;
+	border-radius: 10px;
+    color: white;
+	display: inline-block;
+	padding: 10px;
+}
+ .searchbutton{
+	padding: 20px 10px;
+	text-align: end;
+}
+.searchbutton input{
+	padding: 5px 0;
+	border: 2px solid #4170F4;
+	border-radius: 10px;
+}
+button {
+	margin-top: 40px;
+	padding: 10px 20px;
+	border-radius: 10px;
+	background: #4170F4;
+	color: #E2EAF7;
+}
+/* banner part end */
+/* header part start */
+/* header part end */
+/* header part start */
+/* header part end */
+/* header part start */
+/* header part end */
+/* header part start */
+/* header part end */
+/* header part start */
+/* header part end */
+/* header part start */
+/* header part end */
+/* header part start */
+/* header part end */
+/* header part start */
+/* header part end */
+/* header part start */
+/* header part end */
+/* header part start */
+/* header part end */
+/* header part start */
+/* header part end */
+/* header part start */
+/* header part end */
+/* header part start */
+/* header part end */
